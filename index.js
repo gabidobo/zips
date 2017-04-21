@@ -1,3 +1,5 @@
+'use strict'
+
 let zipTree = null;
 function getByZipCode(_zip) {
   // Cast to string
